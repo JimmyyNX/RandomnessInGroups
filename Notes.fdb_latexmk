@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1736367870.26439 "/Users/jimmy/RandomnessInGroups/Notes.tex" "Notes.pdf" "Notes" 1736367871.77062 0
-  "/Users/jimmy/RandomnessInGroups/Notes.tex" 1736367868.49255 542 4d5e7a3a40b971b0b91c2be72772c510 ""
+["pdflatex"] 1736367927.09108 "/Users/jimmy/RandomnessInGroups/Notes.tex" "Notes.pdf" "Notes" 1736367928.63915 0
+  "/Users/jimmy/RandomnessInGroups/Notes.tex" 1736367926.84406 547 965d84cfdfbc0f8bd168d5b72e277118 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -266,10 +266,10 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1717875458.15374 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1717868603 8221446 7576c950561ec9f770f6386b5a10412e ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "Notes.aux" 1736367871.69944 301 7a8812a0d509ace8875f113244866079 "pdflatex"
-  "Notes.out" 1736367871.52501 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Notes.pre" 1736367870.84118 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Notes.tex" 1736367868.49255 542 4d5e7a3a40b971b0b91c2be72772c510 ""
+  "Notes.aux" 1736367928.56919 301 7a8812a0d509ace8875f113244866079 "pdflatex"
+  "Notes.out" 1736367928.39569 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Notes.pre" 1736367927.69331 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Notes.tex" 1736367926.84406 547 965d84cfdfbc0f8bd168d5b72e277118 ""
   "StyleFiles/evan.sty" 1736367575.66399 29792 2dd493f15d2ea956f8da280b6e7ee970 ""
   "StyleFiles/jimothy.sty" 1736367581.02561 864 c3e3d28cc8992d10b8ce2cbbe6cf3bad ""
   (generated)
