@@ -1,0 +1,32 @@
+\ProvidesPackage{jimothy}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{systeme}
+\usepackage{blindtext}
+\usepackage{tcolorbox}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\definecolor{babyblueeyes}{rgb}{0.63, 0.79, 0.95}
+\definecolor{ballblue}{rgb}{0.13, 0.67, 0.8}
+\definecolor{bostonuniversityred}{rgb}{0.8, 0.0, 0.0}
+\newcommand{\bbreak}
+{
+    \begin{center}
+        \hspace*{8mm}\hrulefill\hspace*{8mm}
+    \end{center}
+}
+\newcommand{\BBreak}
+{
+    \begin{center}
+        \hrulefill
+    \end{center}
+}
+\renewcommand{\leq}{\leqslant}
+\renewcommand*{\sectionformat}%
+    {\color{purple}$\Omega$\thesection\enskip}
+\renewcommand*{\subsectionformat}%
+    {\color{purple}$\Omega$\thesubsection\enskip}
+\renewcommand*{\subsubsectionformat}%
+    {\color{purple}$\Omega$\thesubsubsection\enskip}
+\endinput
